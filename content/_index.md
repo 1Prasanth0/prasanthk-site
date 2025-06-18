@@ -1,7 +1,6 @@
-
 ---
-title: "Welcome to Prasanthk Site"
-description: "This is the homepage of Prasanthk Site"
+title: "Welcome to My Site"
+date: 2025-06-18
 ---
 
-Welcome to my personal website! This site is built with Hugo and the Ananke theme.
+This is a placeholder homepage for your Hugo site deployed on Netlify.
