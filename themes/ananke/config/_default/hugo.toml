@@ -1,0 +1,8 @@
+baseURL = 'https://example.com/'
+languageCode = 'en-us'
+title = 'Prasanthk Site'
+theme = 'ananke'
+
+[module]
+  [module.hugoVersion]
+    min = "0.128.0"
